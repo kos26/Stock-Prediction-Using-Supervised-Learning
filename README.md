@@ -1,5 +1,5 @@
 # Stock Prediction using Supervised learning Techniques
-The program is written in Pythion 3.7
+The program is written in Python 3.7
 The purpose of this program is to apply supervised learning techniques on real data gained from finance.yahoo.com.
 Independent features in this program as Open, Hign and Prices of the stock and the targeted value is the Close price of the stock.
 
